@@ -221,12 +221,12 @@ p {
       gap: 1rem; }
 
 @media (max-width: 478px) {
-  body {
-    overflow-x: hidden; }
   .header {
     background-image: url(../../images/mobile/image-header.jpg);
     min-height: 60vh;
-    position: relative; }
+    width: 100vw;
+    position: relative;
+    overflow-x: hidden; }
     .header .banner h1 {
       font-size: 2.5rem; }
     .header .nav-bar button {
@@ -234,7 +234,7 @@ p {
     .header .nav-bar .links {
       position: absolute;
       top: 100px;
-      right: -300px;
+      right: -100%;
       background-color: white;
       z-index: 1;
       transition: all 0.5s cubic-bezier(0.55, 0.055, 0.675, 0.19); }

@@ -343,13 +343,15 @@ p {
 
 @media (max-width : 478px) {
 
-    body{
-        overflow-x: hidden;
-    }
+
+
+
     .header {
         background-image: url(../../images/mobile/image-header.jpg);
         min-height: 60vh;
+        width: 100vw;
         position: relative;
+        overflow-x: hidden;
 
         .banner {
             h1 {
@@ -366,12 +368,13 @@ p {
             .links {
                 position: absolute;
                 top: 100px;
-                right: -300px;
+                right: -100%;
                 background-color: $white;
                 z-index: 1;
                 transition: all .5s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+           
 
-                &.active{
+                &.active {
                     right: 30px;
                 }
 
@@ -388,7 +391,7 @@ p {
                         right: 0;
                         border-top: 20px solid transparent;
                         border-right: 20px solid $white;
-                       
+
 
                     }
 
