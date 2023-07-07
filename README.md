@@ -28,8 +28,8 @@ Users should be able to:
 
 
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-9LBSDJ8xTa)
+- Live Site URL: [Live site URL here](https://unaygney.github.io/landingPagee/)
 
 ## My process
 
@@ -47,7 +47,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.guneyunay.com)
+- Website - [Guney Unay](https://www.guneyunay.com)
 - Frontend Mentor - [@unaygney](https://www.frontendmentor.io/profile/unaygney)
 
 
