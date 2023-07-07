@@ -1,6 +1,5 @@
 # Frontend Mentor - Sunnyside agency landing page solution
 
-
 ## Table of contents
 
 - [Overview](#overview)

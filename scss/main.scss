@@ -36,7 +36,7 @@ p {
 .header {
     width: 100vw;
     min-height: 100vh;
-    background-image: url(/images/desktop/image-header.jpg);
+    background-image: url(../../images/desktop/image-header.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -347,7 +347,7 @@ p {
         overflow-x: hidden;
     }
     .header {
-        background-image: url(/images/mobile/image-header.jpg);
+        background-image: url(../../images/mobile/image-header.jpg);
         min-height: 60vh;
         position: relative;
 
